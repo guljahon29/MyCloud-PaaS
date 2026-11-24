@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+mycloud.db
+.env
